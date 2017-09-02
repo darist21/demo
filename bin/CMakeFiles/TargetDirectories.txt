@@ -1,0 +1,3 @@
+/home/ari/projects/demo/bin/CMakeFiles/edit_cache.dir
+/home/ari/projects/demo/bin/CMakeFiles/rebuild_cache.dir
+/home/ari/projects/demo/bin/CMakeFiles/view.dir
